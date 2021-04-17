@@ -1,0 +1,16 @@
+* {
+    justify-content: center;
+}
+
+a, a:hover {
+    color: blue;
+}
+
+.headingColors {
+    color: blue;
+}
+
+.flex {
+    display: flex;
+    /* justify-content: left; */
+}
